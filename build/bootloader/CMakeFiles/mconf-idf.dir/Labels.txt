@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/CMakeFiles/mconf-idf
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/CMakeFiles/mconf-idf.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/CMakeFiles/mconf-idf-complete.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/ubuntu/esp/ESP32_PROJECS/ADC_SteperMotorControll/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
